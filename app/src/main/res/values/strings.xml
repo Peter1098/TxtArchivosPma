@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TxtArchivosPma</string>
+    <string name="ingresanom">Ingresa tu nombre </string>
+    <string name="gra">Grabar</string>
+    <string name="conte">Contenido</string>
+    <string name="cargar">btcargar</string>
+</resources>
